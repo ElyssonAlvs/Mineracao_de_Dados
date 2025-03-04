@@ -3,7 +3,7 @@
 Repositório destinado para estudos e práticas com a linguagem Python juntamente com a cadeira de Mineração de Dados (Curso Sistemas de Informação), onde foram abordados conceitos básicos acerca de pré-processamento, classificação, agrupamento e visualização de grandes quantidades de dados
 
 ## Trabalho Final
-[Trabalho Final]()
+[Trabalho Final](https://github.com/ElyssonAlvs/Mineracao_de_Dados/tree/main/TF)
 
 # Linguagem e Bibliotecas
 

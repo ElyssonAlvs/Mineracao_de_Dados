@@ -66,4 +66,7 @@ O projeto será avaliado com base nos seguintes aspectos:
   - Contextualização clara;
   - Explicação das escolhas tomadas.
 
-*Este projeto foi desenvolvido como parte da disciplina de Mineração de Dados.*
+*Este projeto foi desenvolvido como parte da disciplina de Mineração de Dados.
+Para executá-lo faça o git clone, descompacte a pasta .zip, nela está o dataset,
+ajuste o caminho do read_csv() e basta executar, recomendo ter no mínimo 8GB de RAM
+e ao executar kkkkkkk espere acabar, vai consumir bastante memória 😁*
